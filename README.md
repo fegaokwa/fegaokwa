@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Excel</b>
+- <b>Microsoft Excel</b>
 
   - [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa/Accenture-Forage-Project)
 - <b>Python</b>
@@ -12,15 +12,17 @@
   - [BCGx Data Science](https://github.com/fegaokwa)
   - [JP Morgan Chase Quantitative Research](https://github.com/fegaokwa)
  
-<h2> 🧾 Certifications </h2>
+- <b>Power BI</b>
+ 
+<!--<h2> 🧾 Certifications </h2>
 
 - <b>Forage Virtual Internship Program(s) </b>
    - [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa) 
    - [BCGx GenAI](https://github.com/fegaokwa) 
    - [BCGx Data Science](https://github.com/fegaokwa)
-   - [JP Morgan Chase Quantitative Research](https://github.com/fegaokwa) 
+   - [JP Morgan Chase Quantitative Research](https://github.com/fegaokwa) -->
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2> 
 
 [<img align="left" alt="FegaOkwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 

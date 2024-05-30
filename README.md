@@ -3,9 +3,9 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
-  - [Quantium Data Analytics)](https://github.com/fegaokwa)
-  - [BCGX GenAI](https://github.com/fegaokwa)
-  - [BCGX Data Science](https://github.com/fegaokwa)
+  - [Quantium Data Analytics](https://github.com/fegaokwa)
+  - [BCGx GenAI](https://github.com/fegaokwa)
+  - [BCGx Data Science](https://github.com/fegaokwa)
   - [JP Morgan Chase Quantitative Research](https://github.com/fegaokwa)
  
 <h2> 🧾 Certifications </h2>

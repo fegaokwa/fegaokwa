@@ -2,7 +2,11 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Excel</b>
+
+  - [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa/Accenture-Forage-Project)
 - <b>Python</b>
+
   - [Quantium Data Analytics](https://github.com/fegaokwa)
   - [BCGx GenAI](https://github.com/fegaokwa)
   - [BCGx Data Science](https://github.com/fegaokwa)

@@ -2,17 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Microsoft Excel</b>
-
-  - [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa/Accenture-Forage-Project)
-- <b>Python</b>
-
-  - [Quantium Data Analytics](https://github.com/fegaokwa)
-  - [BCGx GenAI](https://github.com/fegaokwa)
-  - [BCGx Data Science](https://github.com/fegaokwa)
-  - [JP Morgan Chase Quantitative Research](https://github.com/fegaokwa)
- 
-- <b>Power BI</b>
+- [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa/Accenture-Forage-Project)
+- [BCG X Generative AI](https://github.com/fegaokwa)
+- [JPMorgan Chase & Co. Markets (Sales & Trading)](https://github.com/fegaokwa)
  
 <!--<h2> 🧾 Certifications </h2>
 

@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa/Accenture-Forage-Project)
-- [BCG X Generative AI](https://github.com/fegaokwa)
-- [JPMorgan Chase & Co. Markets (Sales & Trading)](https://github.com/fegaokwa)
+- [Accenture Data Analytics \& Visualization Virtual Internship](https://github.com/fegaokwa/Accenture-Forage-Project)
+- [BCG X Generative AI Virtual Internship](https://github.com/fegaokwa)
+- [JPMorgan Chase & Co. Markets (Sales & Trading) Virtual Internship](https://github.com/fegaokwa)
  
 <!--<h2> 🧾 Certifications </h2>
 

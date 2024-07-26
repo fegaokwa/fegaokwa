@@ -1,10 +1,13 @@
 <h1>Hi, I'm Fega! <br/><a href="https://github.com/fegaokwa">Developer</a>, <a href="https://www.linkedin.com/in/fegaokwa/">Finance Professional</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
+Virtual internships through Forage:
 
-- [Accenture Data Analytics \& Visualization Virtual Internship](https://github.com/fegaokwa/Accenture-Forage-Project)
-- [BCG X Generative AI Virtual Internship](https://github.com/fegaokwa)
-- [JPMorgan Chase & Co. Markets (Sales & Trading) Virtual Internship](https://github.com/fegaokwa)
+- [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa/Accenture-Forage-Project)
+  
+- [BCG X Generative AI](https://github.com/fegaokwa)
+  
+- [JPMorgan Chase & Co. Markets (Sales & Trading)](https://github.com/fegaokwa)
  
 <!--<h2> 🧾 Certifications </h2>
 

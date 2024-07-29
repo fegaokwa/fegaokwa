@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 Virtual internships through Forage:
 
-- [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa/Accenture-Forage-Project)
+- [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa/Accenture-Data-Analytics-and-Visualization/tree/main)
   
 - [BCG X Generative AI](https://github.com/fegaokwa)
   

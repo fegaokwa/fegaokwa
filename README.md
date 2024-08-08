@@ -7,7 +7,7 @@ Virtual internships through Forage:
   
 - [BCG X Generative AI](https://github.com/fegaokwa)
   
-- [JPMorgan Chase & Co. Markets (Sales & Trading)](https://github.com/fegaokwa)
+- [JPMorgan Markets (Sales & Trading)](https://github.com/fegaokwa/JPMorgan-Sales-and-Trading-Virtual-Internship)
  
 <!--<h2> 🧾 Certifications </h2>
 

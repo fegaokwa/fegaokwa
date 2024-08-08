@@ -1,9 +1,11 @@
 <h1>Hi, I'm Fega! <br/><a href="https://github.com/fegaokwa">Developer</a>, <a href="https://www.linkedin.com/in/fegaokwa/">Finance Professional</a></h1>
 
+
+
 <h2>👨‍💻 Projects:</h2>
 Virtual internships through Forage:
 
-- [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa/Accenture-Data-Analytics-and-Visualization/tree/main)
+- [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa/Accenture-Data-Analytics-and-Visualization)
   
 - [BCG X Generative AI](https://github.com/fegaokwa)
   

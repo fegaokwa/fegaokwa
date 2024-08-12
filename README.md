@@ -7,7 +7,7 @@ Virtual internships through Forage:
 
 - [Accenture Data Analytics \& Visualization](https://github.com/fegaokwa/Accenture-Data-Analytics-and-Visualization)
   
-- [BCG X Generative AI](https://github.com/fegaokwa)
+- [BCG X Generative AI](https://github.com/fegaokwa/BCG-X-Generative-AI)
   
 - [JPMorgan Markets (Sales & Trading)](https://github.com/fegaokwa/JPMorgan-Sales-and-Trading-Virtual-Internship)
  
